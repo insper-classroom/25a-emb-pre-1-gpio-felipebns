@@ -29,6 +29,5 @@ int main() {
       while (!gpio_get(BTN_PIN_B)) {
       };
     }
-    
   }
 }
